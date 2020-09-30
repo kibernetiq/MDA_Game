@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D70D8A5025249BDC00BEF23C /* Снимок экрана 2020-09-30 в 13.25.07.png in Resources */ = {isa = PBXBuildFile; fileRef = D70D8A4E25249BDC00BEF23C /* Снимок экрана 2020-09-30 в 13.25.07.png */; };
-		D70D8A5125249BDC00BEF23C /* Снимок экрана 2020-09-30 в 13.24.59.png in Resources */ = {isa = PBXBuildFile; fileRef = D70D8A4F25249BDC00BEF23C /* Снимок экрана 2020-09-30 в 13.24.59.png */; };
+		D70D8A5625249C4C00BEF23C /* sceen_2.png in Resources */ = {isa = PBXBuildFile; fileRef = D70D8A5425249C4C00BEF23C /* sceen_2.png */; };
+		D70D8A5725249C4C00BEF23C /* screen_1.png in Resources */ = {isa = PBXBuildFile; fileRef = D70D8A5525249C4C00BEF23C /* screen_1.png */; };
 		D7ABBB19251BBDA70063414D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7ABBB18251BBDA70063414D /* AppDelegate.swift */; };
 		D7ABBB1B251BBDA70063414D /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = D7ABBB1A251BBDA70063414D /* art.scnassets */; };
 		D7ABBB1D251BBDA70063414D /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7ABBB1C251BBDA70063414D /* GameViewController.swift */; };
@@ -17,8 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D70D8A4E25249BDC00BEF23C /* Снимок экрана 2020-09-30 в 13.25.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2020-09-30 в 13.25.07.png"; sourceTree = "<group>"; };
-		D70D8A4F25249BDC00BEF23C /* Снимок экрана 2020-09-30 в 13.24.59.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2020-09-30 в 13.24.59.png"; sourceTree = "<group>"; };
+		D70D8A5425249C4C00BEF23C /* sceen_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sceen_2.png; sourceTree = "<group>"; };
+		D70D8A5525249C4C00BEF23C /* screen_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen_1.png; sourceTree = "<group>"; };
 		D7ABBB15251BBDA70063414D /* MDA_Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MDA_Game.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7ABBB18251BBDA70063414D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D7ABBB1A251BBDA70063414D /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -42,8 +42,8 @@
 		D70D8A472524960800BEF23C /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				D70D8A4F25249BDC00BEF23C /* Снимок экрана 2020-09-30 в 13.24.59.png */,
-				D70D8A4E25249BDC00BEF23C /* Снимок экрана 2020-09-30 в 13.25.07.png */,
+				D70D8A5425249C4C00BEF23C /* sceen_2.png */,
+				D70D8A5525249C4C00BEF23C /* screen_1.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -135,10 +135,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D70D8A5125249BDC00BEF23C /* Снимок экрана 2020-09-30 в 13.24.59.png in Resources */,
+				D70D8A5725249C4C00BEF23C /* screen_1.png in Resources */,
 				D7ABBB1B251BBDA70063414D /* art.scnassets in Resources */,
+				D70D8A5625249C4C00BEF23C /* sceen_2.png in Resources */,
 				D7ABBB22251BBDA90063414D /* Assets.xcassets in Resources */,
-				D70D8A5025249BDC00BEF23C /* Снимок экрана 2020-09-30 в 13.25.07.png in Resources */,
 				D7ABBB20251BBDA70063414D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
